@@ -1,0 +1,13 @@
+.container {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.header {
+  min-height: 60px;
+  background-color: #1686b0;
+  padding: 10px;
+}
